@@ -50,8 +50,9 @@
 - L4 : Wire Bond Creation and Material Assignment ####
 - L5 : Applying Mold Compound and Finalizing the Package Model ####
 
-
+--------------------------------------------------------------------------------------------
 # Content #
+--------------------------------------------------------------------------------------------
 
 ##  [Module 1] ##
 
@@ -82,9 +83,26 @@
 ![M1_L5p1](https://github.com/user-attachments/assets/ba70b644-dd7c-4044-8ed9-bc0fc80e27e8)
 
 
+##  [Module 2] ##
+![M2_L1p1](https://github.com/user-attachments/assets/cc8645c8-b20f-442e-9600-99bd8d425d41)
 
 
+![M2_L1p2](https://github.com/user-attachments/assets/db70d5d1-1128-417b-84fc-90a0f94ba823)
+![M2_L2p1](https://github.com/user-attachments/assets/21fe6fa3-d090-4f71-a9a1-f3dc14565f89)
 
+
+![M2_L3p1](https://github.com/user-attachments/assets/c390edaf-5f66-404b-bc7d-7f9c0360585d)
+![M2_L3p2](https://github.com/user-attachments/assets/558bc7a6-bb4b-4085-b6d9-584b33990739)
+![M2_L3p3](https://github.com/user-attachments/assets/ba8c89d7-752a-4562-a2e4-cdb971d47a86)
+![M2_L3p4](https://github.com/user-attachments/assets/795fbdae-37a0-4a04-9c67-bd55ee33aaf5)
+![M2_L3p6](https://github.com/user-attachments/assets/0f756773-012d-4b27-a85b-5704be679c79)
+![M2_L3p5](https://github.com/user-attachments/assets/6eea9e50-87ef-44b7-aa27-ab559280c50c)
+
+
+![M2_L4p1](https://github.com/user-attachments/assets/a1d60a4b-15c1-45fc-9e82-c411d3e4b9ff)
+![M2_L4p2](https://github.com/user-attachments/assets/ff5d3a7c-ba2e-4dcf-a5b2-703b51829e78)
+
+![M2_L5p1](https://github.com/user-attachments/assets/14e77b9a-0b12-42c9-91c2-1cc205e13a0c)
 
 
 
