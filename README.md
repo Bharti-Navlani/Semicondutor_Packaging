@@ -1,11 +1,12 @@
 
 ![Screenshot 2025-04-02 072220](https://github.com/user-attachments/assets/b792d2fe-4899-4269-b525-f5440b2fd3f0)
 
-**Index** 
+# Index #
 
-* [Module 1](#Module-1)
+## [Module 1] ## 
   
-** Packaging Evolution: From Basics to 3D Integration ** 
+### Packaging Evolution: From Basics to 3D Integration ###
+
 -  L1 : Introduction To Semiconductor Packaging And Industry Overview
 -  L2 : Understanding Package Requirements And Foundational Package Types
 -  L3 : Evolving Package Architectures - From Single Chip To Multi-Chip Modules
