@@ -3,7 +3,7 @@
 
 # Index #
 
-<font color="blue">## [Module 1] ##</font>
+##  <span style="color: blue;">[Module 1]</span>
   
 ### Packaging Evolution: From Basics to 3D Integration ###
 
