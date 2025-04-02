@@ -4,6 +4,7 @@
 # Index #
 
 ##  <span style="color: blue;">[Module 1]</span>
+<h2 style="color: blue;">This is a blue heading</h2>
   
 ### Packaging Evolution: From Basics to 3D Integration ###
 
