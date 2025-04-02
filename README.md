@@ -4,12 +4,13 @@
 **Index** 
 
 * [Module 1](#Module-1)
-Packaging Evolution: From Basics to 3D Integration
-L1 - Introduction To Semiconductor Packaging And Industry Overview
-L2 - Understanding Package Requirements And Foundational Package Types
-L3 - Evolving Package Architectures - From Single Chip To Multi-Chip Modules
-L4 - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches
-L5 - Comparative Analysis And Selecting The Right Packaging Solution
+  
+** Packaging Evolution: From Basics to 3D Integration ** 
+-  L1 : Introduction To Semiconductor Packaging And Industry Overview
+-  L2 : Understanding Package Requirements And Foundational Package Types
+-  L3 : Evolving Package Architectures - From Single Chip To Multi-Chip Modules
+-  L4 : Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches
+-  L5 : Comparative Analysis And Selecting The Right Packaging Solution
 
 
 ![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
