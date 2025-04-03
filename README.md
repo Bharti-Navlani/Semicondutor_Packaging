@@ -62,13 +62,10 @@
   
   On top of a semiconductor IC (Integrated Circuit) package, you'll typically find the following information:
   
-  [1] Manufacturer's Logo/Name: Indicates the company that produced the IC.
-  
-  [2] Part Number: Unique identifier for the IC, specifying its type and specifications.
-  
-  [3] Date Code: Represents the manufacturing date, often in a format like week/year or year/month.
-  
-  [4] Lot Number: Used for tracking batches of production for quality control.
+  **[1] Manufacturer's Logo/Name:** Indicates the company that produced the IC<br>
+  **[2] Part Number:** Unique identifier for the IC, specifying its type and specifications.<br>
+  **[3] Date Code:** Represents the manufacturing date, often in a format like week/year or year/month.<br>
+  **[4] Lot Number:** Used for tracking batches of production for quality control.<br>
   
   Below fig shows on example of package IC
   
@@ -76,9 +73,8 @@
 
 - Why semiconductor packaging required?
 
-  [1] Protection: Safeguards the fragile die from physical damage, moisture, and corrosion
-  
-  [2] Electrical Connections: Provides necessary pins or leads for connecting the chip to external circuits
+  **[1] Protection:** Safeguards the fragile die from physical damage, moisture, and corrosion<br>
+  **[2] Electrical Connections:** Provides necessary pins or leads for connecting the chip to external circuits<br>
                              
   ![M1_L1p2](https://github.com/user-attachments/assets/1458d929-7dbe-4310-aec3-210c7e19666f)
 
@@ -88,11 +84,9 @@
 
 - Key Players in the Semiconductor Industry
   
-  [1] Fabless: Companies that design semiconductors but outsource manufacturing to foundries (e.g., Qualcomm, NVIDIA).
-
-  [2] Foundry: Companies that specialize in semiconductor fabrication, producing chips designed by fabless companies (e.g., TSMC, Samsung).
-
-  [3] OSAT (Outsourced Semiconductor Assembly and Test): Companies that handle the packaging, assembly, and testing of semiconductors after fabrication (e.g., ASE, Amkor)
+  **[1] Fabless:**  Companies that design semiconductors but outsource manufacturing to foundries (e.g., Qualcomm, NVIDIA).<br>
+  **[2] Foundry:** Companies that specialize in semiconductor fabrication, producing chips designed by fabless companies (e.g., TSMC, Samsung).<br>
+  **[3] OSAT (Outsourced Semiconductor Assembly and Test):** Companies that handle the packaging, assembly, and testing of semiconductors after fabrication (e.g., ASE, Amkor)<br>
 
   ![M1_L1p6](https://github.com/user-attachments/assets/6b5a24ef-0241-44c5-ab16-0f8a17d2ff17)
 
@@ -100,13 +94,10 @@
 
 - Factors to Consider When Choosing the Right Package for Your Die
   
-  [1] Pin Count: No. of I/O , High-speed I/O requirements can influence the package selection
-  
-  [2] Thermal Dissipation : Organic packages are not suitable for temperatures over 200°C; ceramic packages are used in such cases for better heat dissipation
-
-  [3] Cost: depends on budget constraints
-
-  [4] Form Factor (Area): The physical space available for the package on the board can limit the type of package used
+  **[1] Pin Count:** No. of I/O , High-speed I/O requirements can influence the package selection<br>
+  **[2] Thermal Dissipation :** Organic packages are not suitable for temperatures over 200°C; ceramic packages are used in such cases for better heat dissipation<br>
+  **[3] Cost:** depends on budget constraints<br>
+  **[4] Form Factor (Area):** The physical space available for the package on the board can limit the type of package used<br>
 
   The package serves to connect the chip to the board, impacting both performance and durability of the final product
   
