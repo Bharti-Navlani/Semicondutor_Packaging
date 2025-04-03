@@ -168,5 +168,19 @@
 
 ## [Module 4] ## 
 
+###  Introduction to Package Testing and Electrical Functionality Checks ### 
+
+![ML4_L1p1](https://github.com/user-attachments/assets/cbdd5eda-8eec-4337-990f-dce336563aa2)
+![ML4_L1p2](https://github.com/user-attachments/assets/6b21fe80-b52c-43ce-8d9f-95d2140352cc)
+![ML4_L1p3](https://github.com/user-attachments/assets/83218b17-aedc-456d-a0ed-66f661766f45)
+![ML4_L1p4](https://github.com/user-attachments/assets/852ca29e-4305-454f-9273-40def1a42c81)
+
+### Reliability and Performance Testing of Semiconductor Packages ###
+
+![ML4_L2p1](https://github.com/user-attachments/assets/db460f37-befa-44cb-8db0-28624c6c102d)
+![ML4_L2p2](https://github.com/user-attachments/assets/ce3b1804-d549-4ee7-bb05-7de19ae5cd21)
+![ML4_L2p3](https://github.com/user-attachments/assets/24b029c6-dbfd-4e84-89f5-3cb7b13e2dbc)
+
+
 ## [Module 5] ## 
 
