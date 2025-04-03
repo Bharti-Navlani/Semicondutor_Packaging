@@ -140,19 +140,14 @@
 
 ### Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches ###
 
-- following the different approches for packaging
-  **DIP** – Dual In-line Package
-  **SIP** – Single In-line Package
-
-PGA – Pin Grid Array (In DIP, pins need space, but in PGA, the pins are arranged underneath the package to save space.)
-
-QFN – Quad Flat No-lead (The package is flat with no leads coming out, with leads on all four sides.)
-
-QFP – Quad Flat Package (Leads are coming out from all four sides of the package.)
-
-PBGA – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)
-
-LGA – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)
+- following the different approches for packaging<br>
+  **DIP** – Dual In-line Package<br>
+  **SIP** – Single In-line Package<br>
+  **PGA** – Pin Grid Array (In DIP, pins need space, but in PGA, the pins are arranged underneath the package to save space.)<br>
+  **QFN** – Quad Flat No-lead (The package is flat with no leads coming out, with leads on all four sides.)<br>
+  **QFP** – Quad Flat Package (Leads are coming out from all four sides of the package.)<br>
+  **PBGA** – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)<br>
+  **LGA** – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)<br>
 
 CSP – Chip-Size Package (The package size is similar to the chip size.)
 
