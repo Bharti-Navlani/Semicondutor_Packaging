@@ -105,13 +105,10 @@
 
 - Overview of Package Structure
   
-  [1] Typical Package Structure : Includes the die, carrier, mold compound, and system board (PCB), all connected through interconnects.
-
-  [2] Carrier Materials : Carriers can be made from materials like leadframe, laminate, plastic, ceramic, or silicon.
-
-  [3] Interconnection Methods : Includes wirebond and bump/solder.
-
-  [4] Package Types : Come in various types, such as Dual In package (DIP) , Quad flat no leads (QFN) , chip scale package (CSP), package on package (PoP), and advanced ones like Intel’s MCM(multichip package) and Nvidia’s CoWoS.
+  **[1] Typical Package Structure :** Includes the die, carrier, mold compound, and system board (PCB), all connected through interconnects.<br>
+  **[2] Carrier Materials :** Carriers can be made from materials like leadframe, laminate, plastic, ceramic, or silicon.<br>
+  **[3] Interconnection Methods :** Includes wirebond and bump/solder.<br>
+  **[4] Package Types :** Come in various types, such as Dual In package (DIP) , Quad flat no leads (QFN) , chip scale package (CSP), package on package (PoP), and advanced ones like Intel’s MCM(multichip package) and Nvidia’s CoWoS.<br>
   
   ![M1_L2p4](https://github.com/user-attachments/assets/6c7f181b-dfea-4b04-ab06-2b2196a6a31d)
 
@@ -119,37 +116,35 @@
 
 - Anatomy of packages
   
-  [1] Package Anatomy – Includes different substrate types like leadframe, laminate, and advanced package substrates.
-
-  [2] Leadframe-based Packages – Examples include DIP, QFN; they use gold wirebonds and are simpler in design.
-
-  [3] Laminate-based Packages – Examples include PBGA, FC-CSP; they offer higher pin density and provide better performance.
-
-  [4] Advanced Packages – Examples include 2.5D CoWoS; they integrate multiple dies using interposers for high bandwidth and compact size
+  **[1] Package Anatomy** – Includes different substrate types like leadframe, laminate, and advanced package substrates.<br>
+  **[2] Leadframe-based Packages** – Examples include DIP, QFN; they use gold wirebonds and are simpler in design.<br>
+  **[3] Laminate-based Packages** – Examples include PBGA, FC-CSP; they offer higher pin density and provide better performance.<br>
+  **[4] Advanced Packages** – Examples include 2.5D CoWoS; they integrate multiple dies using interposers for high bandwidth and compact size<br>
 
   ![M1_L3p2](https://github.com/user-attachments/assets/dc9ddced-97f5-47e7-a336-01e18feffa30)
 
 ### Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches ###
 
 - following the different approches for packaging<br>
-  **DIP** – Dual In-line Package<br>
-  **SIP** – Single In-line Package<br>
-  **PGA** – Pin Grid Array (In DIP, pins need space, but in PGA, the pins are arranged underneath the package to save space.)<br>
-  **QFN** – Quad Flat No-lead (The package is flat with no leads coming out, with leads on all four sides.)<br>
-  **QFP** – Quad Flat Package (Leads are coming out from all four sides of the package.)<br>
-  **PBGA** – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)<br>
-  **LGA** – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)<br>
-  **CSP** – Chip-Size Package (The package size is similar to the chip size.)<br>
+  **[1] DIP** – Dual In-line Package<br>
+  **[2] SIP** – Single In-line Package<br>
+  **[3] PGA** – Pin Grid Array (In DIP, pins need space, but in PGA, the pins are arranged underneath the package to save space.)<br>
+  **[4] QFN** – Quad Flat No-lead (The package is flat with no leads coming out, with leads on all four sides.)<br>
+  **[5] QFP** – Quad Flat Package (Leads are coming out from all four sides of the package.)<br>
+  **[6] PBGA** – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)<br>
+  **[7] LGA** – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)<br>
+  **[8] CSP** – Chip-Size Package (The package size is similar to the chip size.)<br>
             It is used when there is limited space on the board, so the chip directly contacts the board without extra space for leads & also referred to as Chip-Scale Package.<br>
-  **MCM** – Multi-Chip Module (A package that contains multiple chips inside.)<br>
-  **PoP** – Package-on-Package (Two packages stacked on top of each other, such as PBGA on PBGA.)<br>
-  **COB** – Chip-on-Board (The die is directly mounted on the board without any package, and connections are made using wire bonds or flip-chip bonding.)<br>
+  **[9] MCM** – Multi-Chip Module (A package that contains multiple chips inside.)<br>
+  **[10] PoP** – Package-on-Package (Two packages stacked on top of each other, such as PBGA on PBGA.)<br>
+  **[11] COB** – Chip-on-Board (The die is directly mounted on the board without any package, and connections are made using wire bonds or flip-chip bonding.)<br>
 
   ![M1_L4p1](https://github.com/user-attachments/assets/2d3c92be-e8f8-4410-9378-abc7c273bc21)
 
 ### Comparative Analysis And Selecting The Right Packaging Solution ###
 
-- Based on the specific requirements and a thorough evaluation of the pros and cons, we can confidently select the most suitable package option as mention in below table 
+- Based on the specific requirements and a thorough evaluation of the pros and cons, we can confidently select the most suitable package option as mention in below table
+  For example, if form factor is a concern, the FC-CSP type of package is a good choice. On the other hand, if high performance with lower cost and power consumption is the priority, moving to an advanced package would be the best option
 
   ![M1_L5p1](https://github.com/user-attachments/assets/ba70b644-dd7c-4044-8ed9-bc0fc80e27e8)
 
@@ -158,12 +153,35 @@
 
 ### Setting The Stage - Supply Chain And Facilities ###
 
-![M2_L1p1](https://github.com/user-attachments/assets/cc8645c8-b20f-442e-9600-99bd8d425d41)
+This figure outlines the semiconductor supply chain process.<br>
+- It starts with IC design at the design house using EDA tools and PDKs to create the circuit blueprint.<br>
+- The next step is wafer fabrication, where silicon wafers and materials are used to manufacture the chips.<br>
+- After fabrication, the chips undergo package assembly and testing, ensuring each IC is properly enclosed and functional.<br>
+- The packaged ICs are then integrated onto PCBs during board assembly and testing.<br>
+- Finally, in the product assembly and test phase, all components are assembled into the final product and undergo comprehensive testing before release<br>
+
+  ![M2_L1p1](https://github.com/user-attachments/assets/cc8645c8-b20f-442e-9600-99bd8d425d41)
 
 ### Wafer Pre-Preparation - Grinding And Dicing ### 
 
+- following the overview of ATMP unit 
+
 ![M2_L1p2](https://github.com/user-attachments/assets/db70d5d1-1128-417b-84fc-90a0f94ba823)
-![M2_L2p1](https://github.com/user-attachments/assets/21fe6fa3-d090-4f71-a9a1-f3dc14565f89)
+
+- following is the initial stages of wafer handling and preparation
+  - ISO 7 : A cleanroom classification by ISO, allowing no more than 352,000 particles per cubic meter (0.5 microns or larger).<br>
+        ISO 7 cleanrooms are used in processes like wafer fabrication, where controlling contamination is crucial for product quality.<br>
+  - Carrier : Used to transport the wafer; can be either vertical or horizontal.<br>
+  - 12-inch Wafer : With a thickness of 800 microns, this results in a larger package size.<br>
+                    The actual circuit is on the top, while the underside is just the substrate. The goal is to reduce the substrate area.<br>
+  - Wafer Inspection : Performed to ensure the wafer meets quality standards before further processing.<br>
+  - Lamination : The front side of the wafer is laminated, where the circuit is located.<br>
+  - Grinding : The back side of the wafer is ground in a machine (after flipping the wafer).<br>
+               This step subjects the wafer to stress, which can cause breakage.<br>
+  - Frame Attachment : A frame is applied to the back side of the wafer using tape for support.<br>
+  - Wafer Dicing : The wafer is diced using either a laser or a blade to separate individual chips.<br>
+
+  ![M2_L2p1](https://github.com/user-attachments/assets/21fe6fa3-d090-4f71-a9a1-f3dc14565f89)
 
 ### Wire Bond Packaging - Die Attach To Molding ###
 
