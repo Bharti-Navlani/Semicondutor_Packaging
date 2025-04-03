@@ -61,13 +61,18 @@
 - How does IC package looks like ? What info in present on package ?
   
   On top of a semiconductor IC (Integrated Circuit) package, you'll typically find the following information:
+  
   Manufacturer's Logo/Name: Indicates the company that produced the IC.
+  
   Part Number: Unique identifier for the IC, specifying its type and specifications.
+  
   Date Code: Represents the manufacturing date, often in a format like week/year or year/month.
+  
   Lot Number: Used for tracking batches of production for quality control.
+  
   Fig 1.1 shows on example of package IC
   
-![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
+      ![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
 
                             **Fig 1.1 Package IC**
                             
