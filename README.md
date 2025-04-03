@@ -98,16 +98,73 @@
 
 ### Understanding Package Requirements And Foundational Package Types ###
 
-![M1_L2p1](https://github.com/user-attachments/assets/ff6e3651-6b67-4dfb-b74d-3d7ab183d738)
-![M1_L2p2](https://github.com/user-attachments/assets/559e2ea7-fe9d-4f13-8b30-2a7624fe5247)
-![M1_L2p3](https://github.com/user-attachments/assets/5fe8c6c2-c993-4b9a-8419-dfc7c81b4430)
-![M1_L2p4](https://github.com/user-attachments/assets/6c7f181b-dfea-4b04-ab06-2b2196a6a31d)
+- Factors to Consider When Choosing the Right Package for Your Die
+  
+  [1] Pin Count: No. of I/O , High-speed I/O requirements can influence the package selection
+  
+  [2] Thermal Dissipation : Organic packages are not suitable for temperatures over 200°C; ceramic packages are used in such cases for better heat dissipation
+
+  [3] Cost: depends on budget constraints
+
+  [4] Form Factor (Area): The physical space available for the package on the board can limit the type of package used
+
+  The package serves to connect the chip to the board, impacting both performance and durability of the final product
+  
+  ![M1_L2p3](https://github.com/user-attachments/assets/5fe8c6c2-c993-4b9a-8419-dfc7c81b4430)
+
+- Overview of Package Structure
+  
+  [1] Typical Package Structure : Includes the die, carrier, mold compound, and system board (PCB), all connected through interconnects.
+
+  [2] Carrier Materials : Carriers can be made from materials like leadframe, laminate, plastic, ceramic, or silicon.
+
+  [3] Interconnection Methods : Includes wirebond and bump/solder.
+
+  [4] Package Types : Come in various types, such as Dual In package (DIP) , Quad flat no leads (QFN) , chip scale package (CSP), package on package (PoP), and advanced ones like Intel’s MCM(multichip package) and Nvidia’s CoWoS.
+  
+  ![M1_L2p4](https://github.com/user-attachments/assets/6c7f181b-dfea-4b04-ab06-2b2196a6a31d)
 
 ### Evolving Package Architectures - From Single Chip To Multi-Chip Modules ###
 
-![M1_L3p2](https://github.com/user-attachments/assets/dc9ddced-97f5-47e7-a336-01e18feffa30)
+- Anatomy of packages
+  
+  [1] Package Anatomy – Includes different substrate types like leadframe, laminate, and advanced package substrates.
+
+  [2] Leadframe-based Packages – Examples include DIP, QFN; they use gold wirebonds and are simpler in design.
+
+  [3] Laminate-based Packages – Examples include PBGA, FC-CSP; they offer higher pin density and provide better performance.
+
+  [4] Advanced Packages – Examples include 2.5D CoWoS; they integrate multiple dies using interposers for high bandwidth and compact size
+
+  ![M1_L3p2](https://github.com/user-attachments/assets/dc9ddced-97f5-47e7-a336-01e18feffa30)
 
 ### Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches ###
+
+- following the different approches for packaging
+  **DIP** – Dual In-line Package
+  **SIP** – Single In-line Package
+
+PGA – Pin Grid Array (In DIP, pins need space, but in PGA, the pins are arranged underneath the package to save space.)
+
+QFN – Quad Flat No-lead (The package is flat with no leads coming out, with leads on all four sides.)
+
+QFP – Quad Flat Package (Leads are coming out from all four sides of the package.)
+
+PBGA – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)
+
+LGA – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)
+
+CSP – Chip-Size Package (The package size is similar to the chip size.)
+
+It is used when there is limited space on the board, so the chip directly contacts the board without extra space for leads.
+
+Also referred to as Chip-Scale Package.
+
+MCM – Multi-Chip Module (A package that contains multiple chips inside.)
+
+PoP – Package-on-Package (Two packages stacked on top of each other, such as PBGA on PBGA.)
+
+COB – Chip-on-Board (The die is directly mounted on the board without any package, and connections are made using wire bonds or flip-chip bonding.)
 
 ![M1_L4p1](https://github.com/user-attachments/assets/2d3c92be-e8f8-4410-9378-abc7c273bc21)
 
