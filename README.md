@@ -62,24 +62,39 @@
   
   On top of a semiconductor IC (Integrated Circuit) package, you'll typically find the following information:
   
-  Manufacturer's Logo/Name: Indicates the company that produced the IC.
+  [1] Manufacturer's Logo/Name: Indicates the company that produced the IC.
   
-  Part Number: Unique identifier for the IC, specifying its type and specifications.
+  [2] Part Number: Unique identifier for the IC, specifying its type and specifications.
   
-  Date Code: Represents the manufacturing date, often in a format like week/year or year/month.
+  [3] Date Code: Represents the manufacturing date, often in a format like week/year or year/month.
   
-  Lot Number: Used for tracking batches of production for quality control.
+  [4] Lot Number: Used for tracking batches of production for quality control.
   
-  Fig 1.1 shows on example of package IC
+  Below fig shows on example of package IC
   
   ![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
 
-  ** Fig 1.1 Package IC **
-  -- Fig 1.1 Package IC 
-                            
-![M1_L1p2](https://github.com/user-attachments/assets/1458d929-7dbe-4310-aec3-210c7e19666f)
-![M1_L1p5](https://github.com/user-attachments/assets/b1610b9e-e420-4b8b-83ef-897a283c6ad1)
-![M1_L1p6](https://github.com/user-attachments/assets/6b5a24ef-0241-44c5-ab16-0f8a17d2ff17)
+- Why semiconductor packaging required?
+
+  [1] Protection: Safeguards the fragile die from physical damage, moisture, and corrosion
+  
+  [2] Electrical Connections: Provides necessary pins or leads for connecting the chip to external circuits
+                             
+  ![M1_L1p2](https://github.com/user-attachments/assets/1458d929-7dbe-4310-aec3-210c7e19666f)
+
+- Following are the different parts of package
+  
+  ![M1_L1p5](https://github.com/user-attachments/assets/b1610b9e-e420-4b8b-83ef-897a283c6ad1)
+
+- Key Players in the Semiconductor Industry
+  
+  [1] Fabless: Companies that design semiconductors but outsource manufacturing to foundries (e.g., Qualcomm, NVIDIA).
+
+  [2] Foundry: Companies that specialize in semiconductor fabrication, producing chips designed by fabless companies (e.g., TSMC, Samsung).
+
+  [3] OSAT (Outsourced Semiconductor Assembly and Test): Companies that handle the packaging, assembly, and testing of semiconductors after fabrication (e.g., ASE, Amkor)
+
+  ![M1_L1p6](https://github.com/user-attachments/assets/6b5a24ef-0241-44c5-ab16-0f8a17d2ff17)
 
 ### Understanding Package Requirements And Foundational Package Types ###
 
