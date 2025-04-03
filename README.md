@@ -45,10 +45,10 @@
 ### Package Design and Modeling: Building a Semiconductor Package from Scratch ### 
 
 - L1 : Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
-- L2 : Creating the Die and Substrate in AEDT ####
-- L3 : Adding Die Attach Material and Bond Pads ####
-- L4 : Wire Bond Creation and Material Assignment ####
-- L5 : Applying Mold Compound and Finalizing the Package Model ####
+- L2 : Creating the Die and Substrate in AEDT 
+- L3 : Adding Die Attach Material and Bond Pads 
+- L4 : Wire Bond Creation and Material Assignment 
+- L5 : Applying Mold Compound and Finalizing the Package Model 
 
 --------------------------------------------------------------------------------------------
 # Content #
@@ -183,4 +183,46 @@
 
 
 ## [Module 5] ## 
+
+### Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT) ### 
+
+![M5_L1p1](https://github.com/user-attachments/assets/cf56e936-ce4f-442b-a382-cafa58c6a717)
+
+### Creating the Die and Substrate in AEDT ### 
+
+![M5_L2p1](https://github.com/user-attachments/assets/23deeb12-2dee-469f-9fdf-0339f1e0c7e9)
+![M5_L2p2](https://github.com/user-attachments/assets/c3529189-fd19-43e9-990b-45648b365275)
+![M5_L2p3](https://github.com/user-attachments/assets/28bc8048-9803-4b53-a0a8-a744e926af5f)
+![M5_L2p4](https://github.com/user-attachments/assets/3f888c2a-4aea-4994-990d-6bc7dadc7799)
+![M5_L2p5](https://github.com/user-attachments/assets/13cfe43b-6af0-49c0-87d9-a1dae004bc38)
+![M5_L2p6](https://github.com/user-attachments/assets/7623e7d1-4fc0-4a03-a3fd-6ebb2335fb94)
+![M5_L2p7](https://github.com/user-attachments/assets/aaa00d5c-616e-483f-b2c1-56d784ba3467)
+![M5_L2p8](https://github.com/user-attachments/assets/86116aee-300f-4683-a3a9-35efdb175d42)
+![M5_L2p9](https://github.com/user-attachments/assets/32a7e77c-8c37-405c-af07-fab907cdf295)
+![M5_L2p10](https://github.com/user-attachments/assets/611a8d24-853a-49a4-bbc9-652cc6110122)
+![M5_L2p11](https://github.com/user-attachments/assets/3d5c54d3-f4cc-4275-a5e3-3c416379e4b4)
+![M5_L2p12](https://github.com/user-attachments/assets/acd3c73e-f18b-47e4-b4d2-173cb3ee1ec9)
+![M5_L2p13](https://github.com/user-attachments/assets/8447e98c-0d40-46b2-8546-1c1e90e1918b)
+
+### Material Definitions And Thermal Power Sources ###
+
+![M5_L3p1](https://github.com/user-attachments/assets/2328527f-36c2-4aab-82ad-e2ce5bee0b37)
+![M5_L3p2](https://github.com/user-attachments/assets/44311920-437e-4985-b461-2063c9cb656a)
+![M5_L3p3](https://github.com/user-attachments/assets/86a5a03b-5042-4904-8fc4-f9b274972dd0)
+![M5_L3p4](https://github.com/user-attachments/assets/3a68010f-85e4-4752-ac22-02591e4f4cb2)
+![M5_L3p5](https://github.com/user-attachments/assets/838f30ea-bead-4173-8618-3a545a6c2e95)
+![M5_L3p6](https://github.com/user-attachments/assets/4c818c17-98a7-41c7-a80e-085db7f353c6)
+
+### Wire Bond Creation and Material Assignment ### 
+
+![M5_L4p1](https://github.com/user-attachments/assets/7e4dd4c8-d9f2-40e6-9522-6e5d6abce530)
+![M5_L4p2](https://github.com/user-attachments/assets/ac9ecba6-0450-45d2-bb60-33b0b9eccd66)
+
+### Applying Mold Compound and Finalizing the Package Model  ### 
+
+![M5_L5p1](https://github.com/user-attachments/assets/2388b1f3-119a-42ff-bae1-1f8bcb8521ba)
+![M5_L5p2](https://github.com/user-attachments/assets/b2de161c-fa8f-4969-8d87-e906169a4b23)
+
+
+
 
