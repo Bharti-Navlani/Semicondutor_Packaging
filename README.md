@@ -148,24 +148,19 @@
   **QFP** – Quad Flat Package (Leads are coming out from all four sides of the package.)<br>
   **PBGA** – Plastic Ball Grid Array (The die is connected from the other side of the package using balls as connections.)<br>
   **LGA** – Land Grid Array (No leads or pins come out; the contacts are flat, directly placed on the board.)<br>
+  **CSP** – Chip-Size Package (The package size is similar to the chip size.)<br>
+            It is used when there is limited space on the board, so the chip directly contacts the board without extra space for leads & also referred to as Chip-Scale Package.<br>
+  **MCM** – Multi-Chip Module (A package that contains multiple chips inside.)<br>
+  **PoP** – Package-on-Package (Two packages stacked on top of each other, such as PBGA on PBGA.)<br>
+  **COB** – Chip-on-Board (The die is directly mounted on the board without any package, and connections are made using wire bonds or flip-chip bonding.)<br>
 
-CSP – Chip-Size Package (The package size is similar to the chip size.)
-
-It is used when there is limited space on the board, so the chip directly contacts the board without extra space for leads.
-
-Also referred to as Chip-Scale Package.
-
-MCM – Multi-Chip Module (A package that contains multiple chips inside.)
-
-PoP – Package-on-Package (Two packages stacked on top of each other, such as PBGA on PBGA.)
-
-COB – Chip-on-Board (The die is directly mounted on the board without any package, and connections are made using wire bonds or flip-chip bonding.)
-
-![M1_L4p1](https://github.com/user-attachments/assets/2d3c92be-e8f8-4410-9378-abc7c273bc21)
+  ![M1_L4p1](https://github.com/user-attachments/assets/2d3c92be-e8f8-4410-9378-abc7c273bc21)
 
 ### Comparative Analysis And Selecting The Right Packaging Solution ###
 
-![M1_L5p1](https://github.com/user-attachments/assets/ba70b644-dd7c-4044-8ed9-bc0fc80e27e8)
+- Based on the specific requirements and a thorough evaluation of the pros and cons, we can confidently select the most suitable package option as mention in below table 
+
+  ![M1_L5p1](https://github.com/user-attachments/assets/ba70b644-dd7c-4044-8ed9-bc0fc80e27e8)
 
 
 ##  [Module 2] ##
