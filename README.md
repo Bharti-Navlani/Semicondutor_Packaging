@@ -72,9 +72,9 @@
   
   Fig 1.1 shows on example of package IC
   
-      ![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
+  ![M1_L1p1](https://github.com/user-attachments/assets/cbffc88f-9880-42a9-bab2-2e6698dcdca3)
 
-                            **Fig 1.1 Package IC**
+  **Fig 1.1 Package IC**
                             
 ![M1_L1p2](https://github.com/user-attachments/assets/1458d929-7dbe-4310-aec3-210c7e19666f)
 ![M1_L1p5](https://github.com/user-attachments/assets/b1610b9e-e420-4b8b-83ef-897a283c6ad1)
