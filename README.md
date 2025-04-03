@@ -108,6 +108,65 @@
 ![M2_L5p1](https://github.com/user-attachments/assets/14e77b9a-0b12-42c9-91c2-1cc205e13a0c)
 
 
+## [Module 3] ## 
+
+### Introduction And Getting Started With ANSYS Electronics Desktop ###
+
+![M3_L1p1](https://github.com/user-attachments/assets/6c0b6ff7-5496-4964-88ee-74dcbc6cb47f)
+![M3_L1p2png](https://github.com/user-attachments/assets/5e3532fa-992a-41fc-b30c-350ea72e4950)
+![M3_L1p3](https://github.com/user-attachments/assets/1ae1f1a2-03c9-4855-9ecb-65e1fab834f9)
+
+### Setting Up A Flip-Chip BGA Package ###
+
+![M3_L2p1](https://github.com/user-attachments/assets/ee9c9d51-deb7-4ea4-91c9-1b921000155f)
+![M3_L2p2](https://github.com/user-attachments/assets/bfb169b4-e533-477d-8b10-702b21f9c08d)
+![M3_L2p3](https://github.com/user-attachments/assets/7da9bf18-d9aa-45dd-b9ed-38484f971047)
+![M3_L2p4](https://github.com/user-attachments/assets/8d5cf820-8404-4419-9fd0-4a6e6c8f1588)
+![M3_L2p5](https://github.com/user-attachments/assets/fcacf57d-2761-455c-9819-b8654e8a34c7)
+![M3_L2p6](https://github.com/user-attachments/assets/17d6a348-21fa-4499-8cf7-bb88be31dd40)
+![M3_L2p7](https://github.com/user-attachments/assets/ce6fc36c-ad46-4dee-9484-9a582f115db2)
+![M3_L2p8](https://github.com/user-attachments/assets/057564b2-d8ef-4384-8096-78b817438950)
+![M3_L2p9](https://github.com/user-attachments/assets/1ded7e18-d40d-4de6-be2d-f51e74d5f868)
+![M3_L2p10](https://github.com/user-attachments/assets/9100f0b7-369d-4761-9af1-8c8060b405c9)
+![M3_L2p11](https://github.com/user-attachments/assets/fbd569f3-94e4-4021-8a41-b00c90074edd)
+![M3_L2p12](https://github.com/user-attachments/assets/9b7999e7-14ad-4914-be2c-5d4161c11f5b)
+![M3_L2p13](https://github.com/user-attachments/assets/57a3131e-c2aa-4391-a422-87f956f65c91)
+![M3_L2p14](https://github.com/user-attachments/assets/b332d797-1581-4d67-a5af-3545350c6883)
+![M3_L2p15](https://github.com/user-attachments/assets/e9386b20-5273-48cc-bcbc-9d2012afe4f0)
+
+### Material Definitions And Thermal Power Sources ###
+
+![M3_L3p1](https://github.com/user-attachments/assets/4be6bfce-0215-4cb5-93e7-aa5c7a62406b)
+![M3_L3p3](https://github.com/user-attachments/assets/8c3698eb-1c27-4b78-8787-c7ea5b85743e)
+![M3_L3p4](https://github.com/user-attachments/assets/41baa6a9-cb71-4da2-b7ac-cd041f9a0596)
+![M3_L3p5](https://github.com/user-attachments/assets/6ab12d5f-d718-4a39-93f5-aaab9c364584)
+![M3_L3p6](https://github.com/user-attachments/assets/e05f0464-8ef4-4796-9acc-26ccfdf5f030)
+![M3_L3p7](https://github.com/user-attachments/assets/1f7565c3-cab5-46ab-b6a6-1afba8003057)
+![M3_L3p8](https://github.com/user-attachments/assets/531fa222-7691-4701-a397-b7b476857323)
+![M3_L3p9](https://github.com/user-attachments/assets/cb8fe114-1cf5-4eba-9e16-cf4cd6947ee4)
+![M3_L3p10](https://github.com/user-attachments/assets/6c181673-af04-4521-bdf8-b90ea0b0a953)
+![M3_L3p11](https://github.com/user-attachments/assets/33a97f4e-4dc7-4408-9ac7-df2e34a26c64)
+
+### Meshing And Running The Thermal Analysis ### 
+
+![M3_L4p1](https://github.com/user-attachments/assets/e5420e55-d814-4c99-803e-720bb6aa2d90)
+![M3_L4p2](https://github.com/user-attachments/assets/e5db22f7-a0ea-469c-a7d5-643b828d347a)
+![M3_L4p3](https://github.com/user-attachments/assets/0b365409-90ba-4214-8f61-f184f936ae9d)
+![M3_L4p4](https://github.com/user-attachments/assets/5089d04a-93c3-40c1-bb1c-e35314598b3e)
+![M3_L4p5](https://github.com/user-attachments/assets/a3c015d0-6e49-40a2-8c39-36c44a0125c1)
+![M3_L4p6](https://github.com/user-attachments/assets/ecd26aeb-fdc1-42f2-bcfb-e6b68bf3e8bf)
+![M3_L4p7](https://github.com/user-attachments/assets/be8aae05-37dd-41d8-b030-fee47fb2457c)
+
+### Viewing Results And Exploring Other Package Types ###
+
+![M3_L5p1](https://github.com/user-attachments/assets/41934ffd-18a8-4174-90f1-1978046bf15f)
+![M3_L5p2](https://github.com/user-attachments/assets/6ff6fb09-d3e7-402d-b52b-9535a0339e90)
+![M3_L5p3](https://github.com/user-attachments/assets/2fa41906-f0e9-465c-a617-927e0052f362)
+![M3_L5p4](https://github.com/user-attachments/assets/3277a858-935c-439f-8097-d0bdab7eb4b6)
+![M3_L5p5](https://github.com/user-attachments/assets/6f7b1dc3-1dfb-4ca8-a7f7-df0041f79198)
 
 
+## [Module 4] ## 
+
+## [Module 5] ## 
 
