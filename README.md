@@ -190,8 +190,8 @@ This figure outlines the semiconductor supply chain process.<br>
 - Following is the step by step process for wire bond packaging :-<br>
 
   **[1] Die Attach** (Epoxy Dispensing & Placement)<br>
-        - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
-        - The chip is picked and accurately placed on the epoxy-coated area.<br>
+            - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
+            - The chip is picked and accurately placed on the epoxy-coated area.<br>
   **[2] Curing**<br>
         - The assembly is heated to harden the epoxy and secure the die in place.<br>
   **[3] Wire Bonding**<br>
