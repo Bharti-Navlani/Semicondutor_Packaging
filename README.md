@@ -164,7 +164,9 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Wafer Pre-Preparation - Grinding And Dicing ### 
 
-- following the overview of ATMP unit 
+- ATMP unit
+  The ATMP unit for VLSI chips is divided into three main areas: 60% of the space is a clean room for assembly, ensuring contamination-free processing of chips;
+  30% is dedicated to testing, where the chips undergo functional and quality checks; and 10% is used for materials storage, holding components like substrates, bonding wires, and packaging materials
 
 ![M2_L1p2](https://github.com/user-attachments/assets/db70d5d1-1128-417b-84fc-90a0f94ba823)
 
