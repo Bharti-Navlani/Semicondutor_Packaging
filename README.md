@@ -232,11 +232,18 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Introduction And Getting Started With ANSYS Electronics Desktop ###
 
+- Understand the options availabe in ANSYS Desktop :- 
+
 ![M3_L1p1](https://github.com/user-attachments/assets/6c0b6ff7-5496-4964-88ee-74dcbc6cb47f)
 ![M3_L1p2png](https://github.com/user-attachments/assets/5e3532fa-992a-41fc-b30c-350ea72e4950)
+
+- Loading the available package available in tool for thermal analysis purpose :- 
+
 ![M3_L1p3](https://github.com/user-attachments/assets/1ae1f1a2-03c9-4855-9ecb-65e1fab834f9)
 
 ### Setting Up A Flip-Chip BGA Package ###
+
+- Review the dimension & material used for the package :- 
 
 ![M3_L2p1](https://github.com/user-attachments/assets/ee9c9d51-deb7-4ea4-91c9-1b921000155f)
 ![M3_L2p2](https://github.com/user-attachments/assets/bfb169b4-e533-477d-8b10-702b21f9c08d)
@@ -246,6 +253,9 @@ This figure outlines the semiconductor supply chain process.<br>
 ![M3_L2p6](https://github.com/user-attachments/assets/17d6a348-21fa-4499-8cf7-bb88be31dd40)
 ![M3_L2p7](https://github.com/user-attachments/assets/ce6fc36c-ad46-4dee-9484-9a582f115db2)
 ![M3_L2p8](https://github.com/user-attachments/assets/057564b2-d8ef-4384-8096-78b817438950)
+
+- Checking the diffferent parts of package while selecting each of them :-
+  
 ![M3_L2p9](https://github.com/user-attachments/assets/1ded7e18-d40d-4de6-be2d-f51e74d5f868)
 ![M3_L2p10](https://github.com/user-attachments/assets/9100f0b7-369d-4761-9af1-8c8060b405c9)
 ![M3_L2p11](https://github.com/user-attachments/assets/fbd569f3-94e4-4021-8a41-b00c90074edd)
@@ -256,6 +266,8 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Material Definitions And Thermal Power Sources ###
 
+- Setting up the monitor at die & substrate for thermal analysis :- 
+
 ![M3_L3p1](https://github.com/user-attachments/assets/4be6bfce-0215-4cb5-93e7-aa5c7a62406b)
 ![M3_L3p3](https://github.com/user-attachments/assets/8c3698eb-1c27-4b78-8787-c7ea5b85743e)
 ![M3_L3p4](https://github.com/user-attachments/assets/41baa6a9-cb71-4da2-b7ac-cd041f9a0596)
@@ -265,24 +277,43 @@ This figure outlines the semiconductor supply chain process.<br>
 ![M3_L3p8](https://github.com/user-attachments/assets/531fa222-7691-4701-a397-b7b476857323)
 ![M3_L3p9](https://github.com/user-attachments/assets/cb8fe114-1cf5-4eba-9e16-cf4cd6947ee4)
 ![M3_L3p10](https://github.com/user-attachments/assets/6c181673-af04-4521-bdf8-b90ea0b0a953)
+
+- Monitor are set now , which can be confirmed as below :- 
+
 ![M3_L3p11](https://github.com/user-attachments/assets/33a97f4e-4dc7-4408-9ac7-df2e34a26c64)
 
 ### Meshing And Running The Thermal Analysis ### 
 
+- Creating the mesh :- 
+
 ![M3_L4p1](https://github.com/user-attachments/assets/e5420e55-d814-4c99-803e-720bb6aa2d90)
+
+- Review for various mesh elements :-
+  
 ![M3_L4p2](https://github.com/user-attachments/assets/e5db22f7-a0ea-469c-a7d5-643b828d347a)
+
+- creating the setup for analysis purpose & validate :-
+
 ![M3_L4p3](https://github.com/user-attachments/assets/0b365409-90ba-4214-8f61-f184f936ae9d)
 ![M3_L4p4](https://github.com/user-attachments/assets/5089d04a-93c3-40c1-bb1c-e35314598b3e)
+
+- If any mesh region is missed it can be added in following way :- 
+
 ![M3_L4p5](https://github.com/user-attachments/assets/a3c015d0-6e49-40a2-8c39-36c44a0125c1)
 ![M3_L4p6](https://github.com/user-attachments/assets/ecd26aeb-fdc1-42f2-bcfb-e6b68bf3e8bf)
 ![M3_L4p7](https://github.com/user-attachments/assets/be8aae05-37dd-41d8-b030-fee47fb2457c)
 
 ### Viewing Results And Exploring Other Package Types ###
 
+- Setting up the plot to view the temperature :- 
+
 ![M3_L5p1](https://github.com/user-attachments/assets/41934ffd-18a8-4174-90f1-1978046bf15f)
 ![M3_L5p2](https://github.com/user-attachments/assets/6ff6fb09-d3e7-402d-b52b-9535a0339e90)
 ![M3_L5p3](https://github.com/user-attachments/assets/2fa41906-f0e9-465c-a617-927e0052f362)
 ![M3_L5p4](https://github.com/user-attachments/assets/3277a858-935c-439f-8097-d0bdab7eb4b6)
+
+- Finally thermal analysis can viewed in following way :- 
+
 ![M3_L5p5](https://github.com/user-attachments/assets/6f7b1dc3-1dfb-4ca8-a7f7-df0041f79198)
 
 
