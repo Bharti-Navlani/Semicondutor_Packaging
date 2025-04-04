@@ -215,10 +215,10 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Flip Chip Assembly - Bump Formation And Underfill ###
 
-**[1] Bump Formation**<br> 
-     - Solder bumps are formed at the die’s fan-out points for connection.<br>
-**[2] Chip Flipping**<br> 
-     - The die is flipped so that the solder bumps face the package substrate.<br>
+  **[1] Bump Formation**<br> 
+       - Solder bumps are formed at the die’s fan-out points for connection.<br>
+  **[2] Chip Flipping**<br> 
+       - The die is flipped so that the solder bumps face the package substrate.<br>
 **[3] Flux Dispensing**<br> 
      - Flux is applied to bond pads to improve solder adhesion and prevent oxidation.<br>
 **[4] Chip Placement**<br> 
