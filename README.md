@@ -190,22 +190,22 @@ This figure outlines the semiconductor supply chain process.<br>
 - Following is the step by step process for wire bond packaging :-<br>
 
 **[1] Die Attach** (Epoxy Dispensing & Placement)<br>
-  - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
-  - The chip is picked and accurately placed on the epoxy-coated area.<br>
+    - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
+    - The chip is picked and accurately placed on the epoxy-coated area.<br>
 **[2] Curing**<br>
-  - The assembly is heated to harden the epoxy and secure the die in place.<br>
+    - The assembly is heated to harden the epoxy and secure the die in place.<br>
 **[3] Wire Bonding**<br>
-  - Fine gold or aluminum wires connect die pads to package leads.<br>
-  - Ball bond is formed on the die pad using heat and pressure.<br>
-  - Wire is looped to reach the corresponding substrate pad.<br>
-  - Crescent bond is made on the substrate pad with ultrasonic energy.<br>
+    - Fine gold or aluminum wires connect die pads to package leads.<br>
+    - Ball bond is formed on the die pad using heat and pressure.<br>
+    - Wire is looped to reach the corresponding substrate pad.<br>
+    - Crescent bond is made on the substrate pad with ultrasonic energy.<br>
 **[4] Molding (Encapsulation)**<br>
-  - Liquid resin is injected to cover and protect the die and wires.<br?
-  - Molding ensures mechanical support and environmental sealing.<br>
+    - Liquid resin is injected to cover and protect the die and wires.<br?
+    - Molding ensures mechanical support and environmental sealing.<br>
 **[5] Marking**<br> 
-  - Laser is used to engrave part numbers or batch IDs on the package.<br>
+    - Laser is used to engrave part numbers or batch IDs on the package.<br>
 **[6] Dicing**<br> 
-  - A precision blade cuts the molded wafer into individual IC packages.<br>
+    - A precision blade cuts the molded wafer into individual IC packages.<br>
    
  ![M2_L3p6](https://github.com/user-attachments/assets/0f756773-012d-4b27-a85b-5704be679c79)
 
@@ -216,32 +216,32 @@ This figure outlines the semiconductor supply chain process.<br>
 ### Flip Chip Assembly - Bump Formation And Underfill ###
 
 **[1] Bump Formation**<br> 
-   - Solder bumps are formed at the die’s fan-out points for connection.<br>
+     - Solder bumps are formed at the die’s fan-out points for connection.<br>
 **[2] Chip Flipping**<br> 
-   - The die is flipped so that the solder bumps face the package substrate.<br>
+     - The die is flipped so that the solder bumps face the package substrate.<br>
 **[3] Flux Dispensing**<br> 
-   - Flux is applied to bond pads to improve solder adhesion and prevent oxidation.<br>
+     - Flux is applied to bond pads to improve solder adhesion and prevent oxidation.<br>
 **[4] Chip Placement**<br> 
-   - The flipped die is aligned and placed onto the substrate, with bumps sitting on the pads.<br>
+     - The flipped die is aligned and placed onto the substrate, with bumps sitting on the pads.<br>
 **[5] Solder Reflow**<br> 
-   - The assembly is heated, melting the solder bumps to form electrical and mechanical bonds.<br>
+     - The assembly is heated, melting the solder bumps to form electrical and mechanical bonds.<br>
 **[6] Flux Cleaning**<br> 
-   - Any residual flux is removed using a solvent spray to prevent defects.<br>
+     - Any residual flux is removed using a solvent spray to prevent defects.<br>
 **[7] Underfill Dispensing**<br> 
-   - Underfill epoxy is injected to fill gaps and reduce stress from different thermal expansion rates.<br>
+     - Underfill epoxy is injected to fill gaps and reduce stress from different thermal expansion rates.<br>
 **[8] Underfill Curing**<br> 
-   - The underfill is cured using heat to strengthen the die-to-substrate connection.<br>
+     - The underfill is cured using heat to strengthen the die-to-substrate connection.<br>
 **[9] Molding**<br> 
-   - A protective mold compound is applied to shield the package from environmental damage.<br>
+     - A protective mold compound is applied to shield the package from environmental damage.<br>
 **[10] Marking**<br> 
-   - A laser is used to engrave product information, batch numbers, or identification codes.<br>
+     - A laser is used to engrave product information, batch numbers, or identification codes.<br>
      
   ![M2_L4p2](https://github.com/user-attachments/assets/ff5d3a7c-ba2e-4dcf-a5b2-703b51829e78)
 
 ###  Wafer Level Packaging And Conclusion ###
 
-  Reconstitution – Known good dies are embedded in a reconstituted wafer using an epoxy mold compound to allow uniform wafer-level processing and easy handling.
-  RDL (Redistribution Layer) Preparation – The RDL is applied to extend and reroute the die’s I/O connections, enabling proper alignment with solder bumps for packaging.
+  Reconstitution – Known good dies are embedded in a reconstituted wafer using an epoxy mold compound to allow uniform wafer-level processing and easy handling.<br>
+  RDL (Redistribution Layer) Preparation – The RDL is applied to extend and reroute the die’s I/O connections, enabling proper alignment with solder bumps for packaging.<br>
 
   ![M2_L5p1](https://github.com/user-attachments/assets/14e77b9a-0b12-42c9-91c2-1cc205e13a0c)
 
