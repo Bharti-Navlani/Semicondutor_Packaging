@@ -215,26 +215,16 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Flip Chip Assembly - Bump Formation And Underfill ###
 
-  **[1] Bump Formation**<br> 
-       - Solder bumps are formed at the die’s fan-out points for connection.<br>
-  **[2] Chip Flipping**<br> 
-       - The die is flipped so that the solder bumps face the package substrate.<br>
-**[3] Flux Dispensing**<br> 
-     - Flux is applied to bond pads to improve solder adhesion and prevent oxidation.<br>
-**[4] Chip Placement**<br> 
-     - The flipped die is aligned and placed onto the substrate, with bumps sitting on the pads.<br>
-**[5] Solder Reflow**<br> 
-     - The assembly is heated, melting the solder bumps to form electrical and mechanical bonds.<br>
-**[6] Flux Cleaning**<br> 
-     - Any residual flux is removed using a solvent spray to prevent defects.<br>
-**[7] Underfill Dispensing**<br> 
-     - Underfill epoxy is injected to fill gaps and reduce stress from different thermal expansion rates.<br>
-**[8] Underfill Curing**<br> 
-     - The underfill is cured using heat to strengthen the die-to-substrate connection.<br>
-**[9] Molding**<br> 
-     - A protective mold compound is applied to shield the package from environmental damage.<br>
-**[10] Marking**<br> 
-     - A laser is used to engrave product information, batch numbers, or identification codes.<br>
+  **[1] Bump Formation** - Solder bumps are formed at the die’s fan-out points for connection.<br>
+  **[2] Chip Flipping** - The die is flipped so that the solder bumps face the package substrate.<br>
+  **[3] Flux Dispensing** - Flux is applied to bond pads to improve solder adhesion and prevent oxidation.<br>
+  **[4] Chip Placement** - The flipped die is aligned and placed onto the substrate, with bumps sitting on the pads.<br>
+  **[5] Solder Reflow** - The assembly is heated, melting the solder bumps to form electrical and mechanical bonds.<br>
+  **[6] Flux Cleaning** - Any residual flux is removed using a solvent spray to prevent defects.<br>
+  **[7] Underfill Dispensing** - Underfill epoxy is injected to fill gaps and reduce stress from different thermal expansion rates.<br>
+  **[8] Underfill Curing** - The underfill is cured using heat to strengthen the die-to-substrate connection.<br>
+  **[9] Molding** - A protective mold compound is applied to shield the package from environmental damage.<br>
+  **[10] Marking** - A laser is used to engrave product information, batch numbers, or identification codes.<br>
      
   ![M2_L4p2](https://github.com/user-attachments/assets/ff5d3a7c-ba2e-4dcf-a5b2-703b51829e78)
 
