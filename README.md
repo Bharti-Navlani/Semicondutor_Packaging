@@ -189,29 +189,29 @@ This figure outlines the semiconductor supply chain process.<br>
 
 - Following is the step by step process for wire bond packaging :-<br>
 
-**[1] Die Attach** (Epoxy Dispensing & Placement)<br>
-    - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
-    - The chip is picked and accurately placed on the epoxy-coated area.<br>
-**[2] Curing**<br>
-    - The assembly is heated to harden the epoxy and secure the die in place.<br>
-**[3] Wire Bonding**<br>
-    - Fine gold or aluminum wires connect die pads to package leads.<br>
-    - Ball bond is formed on the die pad using heat and pressure.<br>
-    - Wire is looped to reach the corresponding substrate pad.<br>
-    - Crescent bond is made on the substrate pad with ultrasonic energy.<br>
-**[4] Molding (Encapsulation)**<br>
-    - Liquid resin is injected to cover and protect the die and wires.<br?
-    - Molding ensures mechanical support and environmental sealing.<br>
-**[5] Marking**<br> 
-    - Laser is used to engrave part numbers or batch IDs on the package.<br>
-**[6] Dicing**<br> 
-    - A precision blade cuts the molded wafer into individual IC packages.<br>
+  **[1] Die Attach** (Epoxy Dispensing & Placement)<br>
+        - Epoxy is dispensed in a defined pattern on the substrate or DAF.<br>
+        - The chip is picked and accurately placed on the epoxy-coated area.<br>
+  **[2] Curing**<br>
+        - The assembly is heated to harden the epoxy and secure the die in place.<br>
+  **[3] Wire Bonding**<br>
+        - Fine gold or aluminum wires connect die pads to package leads.<br>
+        - Ball bond is formed on the die pad using heat and pressure.<br>
+        - Wire is looped to reach the corresponding substrate pad.<br>
+        - Crescent bond is made on the substrate pad with ultrasonic energy.<br>
+  **[4] Molding (Encapsulation)**<br>
+        - Liquid resin is injected to cover and protect the die and wires.<br>
+        - Molding ensures mechanical support and environmental sealing.<br>
+  **[5] Marking**<br> 
+        - Laser is used to engrave part numbers or batch IDs on the package.<br>
+  **[6] Dicing**<br> 
+        - A precision blade cuts the molded wafer into individual IC packages.<br>
    
  ![M2_L3p6](https://github.com/user-attachments/assets/0f756773-012d-4b27-a85b-5704be679c79)
 
 - Following is the detail process of wire bonding done 
 
-  ![M2_L3p3](https://github.com/user-attachments/assets/ba8c89d7-752a-4562-a2e4-cdb971d47a86)
+![M2_L3p3](https://github.com/user-attachments/assets/ba8c89d7-752a-4562-a2e4-cdb971d47a86)
 
 ### Flip Chip Assembly - Bump Formation And Underfill ###
 
