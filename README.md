@@ -322,17 +322,19 @@ This figure outlines the semiconductor supply chain process.<br>
 ###  Introduction to Package Testing and Electrical Functionality Checks ### 
 
 - **Multi-Stage Testing Process**<br>
-  Testing ensures semiconductor reliability by detecting electrical, mechanical, and physical defects. It begins at the foundry with wafer probe testing after front-end manufacturing.<br>
-  Wafer sorting follows, selecting functional dies for packaging. After package assembly at the OSAT stage, package-level testing checks for defects. Finally, System Level Testing (SLT)<br>
+  Testing ensures semiconductor reliability by detecting electrical, mechanical, and physical defects.<br>
+  It begins at the foundry with wafer probe testing after front-end manufacturing.<br>
+  Wafer sorting follows, selecting functional dies for packaging.<br>
+  After package assembly at the OSAT stage, package-level testing checks for defects. Finally, System Level Testing (SLT)<br>
   evaluates real-world performance. Throughout, failure analysis helps refine processes and improve yield<br>
   
   ![ML4_L1p1](https://github.com/user-attachments/assets/cbdd5eda-8eec-4337-990f-dce336563aa2)
 
 - **Package Testing**<br>
-  as shown in figure below , after packaging in a cleanroom (ISO Class 6 & 7), chips are placed in package sockets for testing to ensure quality and reliability:<br>
+  as shown in figure below , after packaging in a cleanroom (ISO Class 6 & 7), chips are placed in package sockets for testing<br>
   AOST (Assembly Open and Short Test) – Verifies basic electrical connectivity to detect open or short circuits.<br>
   Burn-in Test – Applies thermal and voltage stress to identify early failures.<br>
-  Final Test – Evaluates functionality, parametric performance, and reliability across different temperatures (cold & hot tests).<br>
+  Final Test – Evaluates functionality, parametric performance and reliability across different temperatures (cold & hot tests).<br>
   
   ![ML4_L1p2](https://github.com/user-attachments/assets/6b21fe80-b52c-43ce-8d9f-95d2140352cc)
 
@@ -350,9 +352,33 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ### Reliability and Performance Testing of Semiconductor Packages ###
 
-![ML4_L2p1](https://github.com/user-attachments/assets/db460f37-befa-44cb-8db0-28624c6c102d)
-![ML4_L2p2](https://github.com/user-attachments/assets/ce3b1804-d549-4ee7-bb05-7de19ae5cd21)
-![ML4_L2p3](https://github.com/user-attachments/assets/24b029c6-dbfd-4e84-89f5-3cb7b13e2dbc)
+- **Reliability Testing in Semiconductors: Bathtub Curve & Burn-In Process**<br>
+
+  The Bathtub Curve represents failure rates over time, starting with high early failures, followed by a stable useful life, and ending with wear-out failures.<br>
+  Burn-In is a stress test done to screen out early-life failures by running devices under high temperature and voltage.<br>
+  Burn-In Boards (BIBs) are used to hold multiple devices during this process and are built to withstand harsh conditions.<br>
+  Burn-In Systems are chambers that control the testing environment, ensuring consistent stress application and monitoring.<br>
+  The main goal is to remove weak units early, so only reliable devices enter the useful life phase, maximizing performance and longevity.<br>
+
+  ![ML4_L2p1](https://github.com/user-attachments/assets/db460f37-befa-44cb-8db0-28624c6c102d)
+
+- **Hot and Cold Temperature Testing**<br>
+
+  The Final Test subjects devices to thermal extremes to uncover hidden or marginal defects.<br>
+  Automated Test Equipment (ATE) with temperature-controlled handlers is used to apply cold and hot conditions, not ovens.<br>
+  The Hot Test stresses devices at high temperatures, increasing the chance of detecting issues like leakage, timing failures, or marginal circuits.<br>
+  The Cold Test challenges the device at low temperatures, where slow operation and threshold shifts can reveal otherwise hidden defects.<br>
+  Together, these tests ensure the product is robust and performs reliably across its full specified temperature range.<br>
+
+  ![ML4_L2p2](https://github.com/user-attachments/assets/ce3b1804-d549-4ee7-bb05-7de19ae5cd21)
+
+- **ATE (Automatic Test Equipment) Testing Overview**<br>
+
+  ATE automates the testing of semiconductor devices by applying test patterns to the Device Under Test (DUT).<br>
+  It performs Parametric Tests (voltage/current checks), Functional Tests (behavior verification), and Speed Tests (timing performance).<br>
+  Testing efficiency is measured by yield, test time, and test coverage.<br>
+
+  ![ML4_L2p3](https://github.com/user-attachments/assets/24b029c6-dbfd-4e84-89f5-3cb7b13e2dbc)
 
 
 ## [Module 5] ## 
