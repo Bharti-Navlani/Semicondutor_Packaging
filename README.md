@@ -60,6 +60,8 @@ Hands-on activities offer practical insights throughout the course.<br>
 - L4 : Wire Bond Creation and Material Assignment 
 - L5 : Applying Mold Compound and Finalizing the Package Model 
 
+# Acknowledgement #
+
 --------------------------------------------------------------------------------------------
 # Content #
 --------------------------------------------------------------------------------------------
