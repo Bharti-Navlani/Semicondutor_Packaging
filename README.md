@@ -1,6 +1,16 @@
 
 ![Screenshot 2025-04-02 072220](https://github.com/user-attachments/assets/b792d2fe-4899-4269-b525-f5440b2fd3f0)
 
+
+# Overview # 
+The Packaging Fundamentals of Design and Technology Workshop bridges the gap between traditional chip design and modern packaging.<br>
+It gives a solid understanding of advanced packaging techniques.<br>
+The workshop helps in making better decisions for system-level integration.<br>
+Participants explore the evolution of packaging and interconnect technologies.<br>
+It also covers thermal simulations, assembly processes, and packaging selection.<br>
+Hands-on activities offer practical insights throughout the course.<br>
+
+
 # Index #
 
 ## [Module 1] ## 
@@ -433,5 +443,9 @@ This figure outlines the semiconductor supply chain process.<br>
 ![M5_L5p2](https://github.com/user-attachments/assets/b2de161c-fa8f-4969-8d87-e906169a4b23)
 
 
+#Acknowledgement#
 
+Grateful thanks to Mr. Kunal Ghose from VLSI System Design (VSD) for organizing and leading the Packaging Fundamentals of Design and Technology Workshop.<br>
+Sincere appreciation to Prof. Tarun Agarwal from IIT Gandhinagar for delivering insightful and engaging lectures that enhanced the overall learning experience.<br>
+Their contributions made the workshop a valuable journey into advanced semiconductor packaging technologies.<br>
 
