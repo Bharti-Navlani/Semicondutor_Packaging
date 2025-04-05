@@ -387,6 +387,16 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ![M5_L1p1](https://github.com/user-attachments/assets/cf56e936-ce4f-442b-a382-cafa58c6a717)
 
+- In this lab , 3D package is being created from stratch (unlike Module 2 where package was directly import) 
+
+  -  Ansys Electronics Desktop (AEDT) was used to virtually design a semiconductor wire bond package up to the molding stage.
+  -  The process began with defining the die and substrate geometry using AEDT’s 3D layout tools, followed by assigning realistic material properties. 
+  -  A die attach layer was placed beneath the die to replicate adhesive bonding, with appropriate thermal characteristics.
+  -  Bond pads were then created on both the die and substrate, and gold wire bonds were added to establish electrical connections. 
+  -  The entire structure was encapsulated with a mold compound to provide mechanical protection and thermal insulation.
+  -  The final model was verified for geometry accuracy, correct layer stacking, and material assignments. 
+  -  Each step was visualized in AEDT’s 3D simulation environment, with key stages documented through screenshots.
+
 ### Creating the Die and Substrate in AEDT ### 
 
 ![M5_L2p1](https://github.com/user-attachments/assets/23deeb12-2dee-469f-9fdf-0339f1e0c7e9)
