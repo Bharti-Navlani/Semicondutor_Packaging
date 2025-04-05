@@ -321,14 +321,14 @@ This figure outlines the semiconductor supply chain process.<br>
 
 ###  Introduction to Package Testing and Electrical Functionality Checks ### 
 
-- **Multi-Stage Testing Process**
+- **Multi-Stage Testing Process**<br>
   Testing ensures semiconductor reliability by detecting electrical, mechanical, and physical defects. It begins at the foundry with wafer probe testing after front-end manufacturing.<br>
   Wafer sorting follows, selecting functional dies for packaging. After package assembly at the OSAT stage, package-level testing checks for defects. Finally, System Level Testing (SLT)<br>
   evaluates real-world performance. Throughout, failure analysis helps refine processes and improve yield<br>
   
   ![ML4_L1p1](https://github.com/user-attachments/assets/cbdd5eda-8eec-4337-990f-dce336563aa2)
 
-- **Package Testing**
+- **Package Testing**<br>
   as shown in figure below , after packaging in a cleanroom (ISO Class 6 & 7), chips are placed in package sockets for testing to ensure quality and reliability:<br>
   AOST (Assembly Open and Short Test) – Verifies basic electrical connectivity to detect open or short circuits.<br>
   Burn-in Test – Applies thermal and voltage stress to identify early failures.<br>
@@ -336,7 +336,7 @@ This figure outlines the semiconductor supply chain process.<br>
   
   ![ML4_L1p2](https://github.com/user-attachments/assets/6b21fe80-b52c-43ce-8d9f-95d2140352cc)
 
-- **Overview of Assembly Open and Short Test (AOST)**
+- **Overview of Assembly Open and Short Test (AOST)**<br>
   AOST detects electrical opens and shorts on package leads or balls.<br>
   Performed after Trim & Form (leadframe) or Singulation (BGA).<br>
   Catches major defects before products leave assembly.<br>
